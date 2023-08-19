@@ -1,4 +1,4 @@
-# Project Name
+# Admin Dashboard
 
 Brief project description goes here.
 
@@ -29,4 +29,13 @@ Provide step-by-step instructions on how to install and set up your project.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/chintand3010/Admin_dashboard.git
+
+2. Navigate to the project directory:
+cd yourproject
+
+3. Install the project dependencies:
+npm install
+
+4. Start the development server:
+npm start
