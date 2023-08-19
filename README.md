@@ -1,15 +1,12 @@
 # Admin Dashboard
 
-Brief project description goes here.
+The Admin Dashboard is a powerful web application designed to streamline administrative tasks and provide real-time insights for managing an organization or system. With an intuitive and user-friendly interface, it offers administrators a centralized hub to monitor, control, and analyze critical data and operations.
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -39,3 +36,4 @@ npm install
 
 4. Start the development server:
 npm start
+
